@@ -1,0 +1,17 @@
+*.class
+.idea
+*.txt
+*.MF
+*.prefs
+.project
+.classpath
+*.lock
+*.bin
+.gradle/**
+*.jar
+*.war
+.idea/**
+build/**
+*.md
+*.iml
+**/target/**
