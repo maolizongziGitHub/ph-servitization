@@ -3,7 +3,7 @@ spring:
     name: ph-order-service
 
 server:
-  port: 8084
+  port: 8080
 
 eureka:
   client:

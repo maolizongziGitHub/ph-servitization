@@ -3,7 +3,7 @@ spring:
     name: ph-merchant-service
 
 server:
-  port: 8083
+  port: 8080
 
 eureka:
   client:

@@ -3,7 +3,7 @@ spring:
     name: ph-trade-service
 
 server:
-  port: 8086
+  port: 8080
 
 eureka:
   client:
