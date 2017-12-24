@@ -1,4 +1,4 @@
-package ph.gateway.service.app;
+package ph.gateway.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;

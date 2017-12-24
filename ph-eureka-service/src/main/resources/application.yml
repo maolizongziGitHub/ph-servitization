@@ -1,6 +1,7 @@
 spring:
-  applicaton:
+  application:
     name: eureka-service
+
 
 server:
   port: 2181

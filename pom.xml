@@ -7,13 +7,12 @@
     <modules>
         <module>ph-eureka-service</module>
         <module>ph-member-service</module>
-        <module>ph-payment-service</module>
         <module>ph-manage-service</module>
         <module>ph-system-service</module>
         <module>ph-order-service</module>
         <module>ph-merchant-service</module>
-        <module>ph-zuul-service</module>
         <module>ph-gateway-service</module>
+        <module>ph-trade-service</module>
     </modules>
 
     <parent>
